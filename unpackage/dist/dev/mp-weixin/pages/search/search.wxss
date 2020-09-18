@@ -1,0 +1,55 @@
+.search-container.data-v-79540cca {
+  background-color: #fff;
+}
+.search-container .search-header-view.data-v-79540cca {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background-color: #fff;
+  padding: 0 16rpx;
+}
+.search-container .search-header-view .search-box.data-v-79540cca {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+          flex-grow: 1;
+}
+.search-container .search-header-view .search-box.data-v-79540cca .uni-searchbar__box {
+  height: 60rpx;
+}
+.search-container .tuijian-view.data-v-79540cca {
+  text-align: center;
+}
+.search-container .tuijian-view .tabs-c.data-v-79540cca {
+  display: inline-block;
+  width: auto;
+}
+.search-container .tuijian-view .tabs-c.data-v-79540cca .u-tabs-item {
+  font-size: 28rpx !important;
+}
+.search-container .tuijian-view .swiper-c.data-v-79540cca {
+  min-height: 400rpx;
+}
+.search-container .tuijian-view .swiper-c .swiper-item .list-view.data-v-79540cca {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 12rpx 40rpx;
+}
+.search-container .tuijian-view .swiper-c .swiper-item .list-view > view.data-v-79540cca {
+  width: 50%;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+          flex-grow: 1;
+  text-align: left;
+  font-size: 26rpx;
+}
+.search-container .tuijian-view .swiper-c .swiper-item .list-view > view > view.data-v-79540cca {
+  padding: 12rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+

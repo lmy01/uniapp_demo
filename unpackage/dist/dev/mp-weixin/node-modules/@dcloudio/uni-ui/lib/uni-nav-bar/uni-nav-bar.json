@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-status-bar": "/node-modules/@dcloudio/uni-ui/lib/uni-status-bar/uni-status-bar",
+    "uni-icons": "/node-modules/@dcloudio/uni-ui/lib/uni-icons/uni-icons"
+  }
+}

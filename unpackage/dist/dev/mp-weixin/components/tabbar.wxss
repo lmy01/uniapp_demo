@@ -1,0 +1,10 @@
+#tabbar-bottom.data-v-583c375d .u-tabbar__content {
+  z-index: 100000;
+}
+#tabbar-bottom.data-v-583c375d .u-drawer-bottom {
+  bottom: 50px;
+}
+#tabbar-bottom.data-v-583c375d .u-grid-item-box {
+  background-color: #f8f8f8;
+}
+

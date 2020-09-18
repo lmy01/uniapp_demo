@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "u-cell-group": "/node-modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/node-modules/uview-ui/components/u-cell-item/u-cell-item",
+    "u-avatar": "/node-modules/uview-ui/components/u-avatar/u-avatar",
+    "u-gap": "/node-modules/uview-ui/components/u-gap/u-gap"
+  }
+}

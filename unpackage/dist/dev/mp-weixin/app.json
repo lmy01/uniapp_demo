@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/movie/movie",
+    "pages/novel/novel",
+    "pages/member/member",
+    "pages/mine/mine",
+    "pages/search/search",
+    "pages/info/info",
+    "pages/code/code"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "globalNavTitle",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/movie/movie"
+      },
+      {
+        "pagePath": "pages/member/member"
+      },
+      {
+        "pagePath": "pages/mine/mine"
+      }
+    ]
+  },
+  "usingComponents": {
+    "tabbar": "/components/tabbar"
+  },
+  "sitemapLocation": "sitemap.json"
+}

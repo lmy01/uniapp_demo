@@ -1,0 +1,22 @@
+{
+  "name": "uniapp_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.2.4",
+    "tki-qrcode": "^0.1.6",
+    "uview-ui": "^1.5.8",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.3"
+  }
+}

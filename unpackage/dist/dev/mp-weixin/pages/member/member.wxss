@@ -1,0 +1,237 @@
+.member-container.data-v-9bb7ceec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.member-container .status_bar.data-v-9bb7ceec {
+  background-color: #fff;
+}
+.member-container .avatar-search-c.data-v-9bb7ceec {
+  padding: 20rpx 20rpx 10rpx;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.member-container .avatar-search-c .avatar.data-v-9bb7ceec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.member-container .avatar-search-c .avatar .image_avatar.data-v-9bb7ceec {
+  width: 80rpx;
+  height: 80rpx;
+  -webkit-border-radius: 80rpx;
+          border-radius: 80rpx;
+  margin-right: 15rpx;
+}
+.member-container .avatar-search-c .avatar .username-container .username.data-v-9bb7ceec {
+  color: #3CC51F;
+  font-size: 30rpx;
+  font-weight: bold;
+}
+.member-container .avatar-search-c .avatar .username-container .subtitle.data-v-9bb7ceec {
+  color: #aaa;
+  font-size: 12rpx;
+  -webkit-border-radius: 6rpx;
+          border-radius: 6rpx;
+}
+.member-container .avatar-search-c .info.data-v-9bb7ceec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.member-container .tabs-swiper-c.data-v-9bb7ceec {
+  height: 1px;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+          flex-grow: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.member-container .tabs-swiper-c .tabs-c.data-v-9bb7ceec {
+  padding-bottom: 15rpx;
+}
+.member-container .tabs-swiper-c .tabs-c.data-v-9bb7ceec .u-tabs-item {
+  font-size: 26rpx !important;
+}
+.member-container .tabs-swiper-c .swiper-c.data-v-9bb7ceec {
+  height: 1px;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+          flex-grow: 1;
+}
+.member-container .tabs-swiper-c .swiper-c .swiper-item scroll-view.data-v-9bb7ceec {
+  height: 100%;
+}
+.member-container .tabs-swiper-c .swiper-c .swiper-item .header-image.data-v-9bb7ceec {
+  width: 100%;
+}
+.member-container .tabs-swiper-c .swiper-c .swiper-item .options-c.data-v-9bb7ceec {
+  padding: 15rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  background-color: #fff;
+  -webkit-box-shadow: 0 1px 3px #ddd;
+          box-shadow: 0 1px 3px #ddd;
+}
+.member-container .tabs-swiper-c .swiper-c .swiper-item .options-c .option-item.data-v-9bb7ceec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 26rpx;
+}
+.member-container .tabs-swiper-c .swiper-c .swiper-item .options-c .option-item image.data-v-9bb7ceec {
+  width: 40rpx;
+  height: 40rpx;
+}
+.member-container .tabs-swiper-c .novel-hot-c.data-v-9bb7ceec {
+  margin: 10rpx 0;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-title-more.data-v-9bb7ceec {
+  padding: 5rpx 15rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-title-more .novel-hot-title.data-v-9bb7ceec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-title-more .novel-hot-title > text.data-v-9bb7ceec {
+  font-size: 30rpx;
+  font-weight: bold;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-title-more .novel-hot-title .novel-hot-title-tag.data-v-9bb7ceec {
+  width: 50rpx;
+  height: 30rpx;
+  margin-left: 10rpx;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-title-more .novel-hot-more.data-v-9bb7ceec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-title-more .novel-hot-more > text.data-v-9bb7ceec {
+  font-size: 24rpx;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item.data-v-9bb7ceec {
+  padding: 20rpx;
+  margin: 15rpx;
+  background-color: #fff;
+  -webkit-border-radius: 5rpx;
+          border-radius: 5rpx;
+  -webkit-box-shadow: 0 0 3px #ddd;
+          box-shadow: 0 0 3px #ddd;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-image.data-v-9bb7ceec {
+  width: 180rpx;
+  height: 290rpx;
+  margin-right: 15rpx;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-title-content.data-v-9bb7ceec {
+  width: 1rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+          flex-grow: 1;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-title-content .novel-hot-item-title.data-v-9bb7ceec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-title-content .novel-hot-item-title .novel-title.data-v-9bb7ceec {
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-title-content .novel-hot-item-title .novel-star.data-v-9bb7ceec {
+  font-size: 26rpx;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-title-content .novel-hot-item-author-type.data-v-9bb7ceec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 10rpx 0;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-title-content .novel-hot-item-author-type .novel-author.data-v-9bb7ceec {
+  color: #999;
+  font-size: 26rpx;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-title-content .novel-hot-item-author-type view.data-v-9bb7ceec {
+  color: #999;
+  padding: 0 10rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  background-color: #f2f2f2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-title-content .novel-hot-item-author-type view text.data-v-9bb7ceec {
+  font-size: 22rpx;
+}
+.member-container .tabs-swiper-c .novel-hot-c .novel-hot-novels .novel-hot-item .novel-hot-item-title-content .novel-hot-item-content.data-v-9bb7ceec {
+  font-size: 26rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+

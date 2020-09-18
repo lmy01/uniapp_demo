@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "二维码名片",
+  "usingComponents": {
+    "u-avatar": "/node-modules/uview-ui/components/u-avatar/u-avatar",
+    "tki-qrcode": "/components/qrcode"
+  }
+}
